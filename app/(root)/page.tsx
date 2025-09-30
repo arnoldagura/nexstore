@@ -5,6 +5,6 @@ export const metadata = {
 
 const Homepage = () => {
   return <>NexStore</>;
-}
- 
+};
+
 export default Homepage;
